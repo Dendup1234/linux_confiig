@@ -92,4 +92,4 @@ environment on Omarchy **without touching Omarchy's Hyprland setup**.
 
 ## Games
 Games and saves are NOT in this repo — they're on the user's external drive. After the steps above,
-run the `/restore-games` command (`.claude/commands/restore-games.md`) when the drive is plugged in.
+run the `/restore-games` and `/restore-brave` commands (`.claude/commands/restore-games.md`) when the drive is plugged in.
