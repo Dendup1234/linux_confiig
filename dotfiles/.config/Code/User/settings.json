@@ -1,0 +1,61 @@
+
+{
+  "background.enabled": true,
+  "background.windowBackgrounds": [],
+  "background.sidebarBackgrounds": [
+    "~/Pictures/wallpapers/ubuntu-black-4k.png"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  
+  "vscode-pets.theme": "autumn",
+  "vscode-pets.throwBallWithMouse": true,
+  "background.backgroundBlur": [
+    "40",
+    "0",
+    "0",
+    "0"
+  ],
+  "background.editorBackgrounds": [
+    "~/Pictures/wallpapers/yellow_kyoto.jpg"
+  ],
+  "background.backgroundOpacity": [
+    0.15,
+    0.1,
+    0.1,
+    0.1
+  ],
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "mdb.mcp.server": "autoStartEnabled",
+  "background.opacity": 0.1,
+  "[ruby]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "jnbt.vscode-rufo"
+  },
+  "yaml.disableSchemaDetection": [
+    "**/.github/workflows/*.yml",
+    "**/.github/workflows/*.yaml",
+    "**/.gitea/workflows/*.yml",
+    "**/.gitea/workflows/*.yaml",
+    "**/.forgejo/workflows/*.yml",
+    "**/.forgejo/workflows/*.yaml"
+  ],
+  "git.openRepositoryInParentFolders": "always",
+  "background.filepath": "~/Pictures/wallpapers/a_cartoon_of_a_house_on_a_cliff.png",
+  "claudeCode.preferredLocation": "panel",
+  "editor.cursorBlinking": "solid",
+  "hediet.vscode-drawio.resizeImages": null,
+  "git-blame.config.showBlameInline": true,
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "files.autoSave": "afterDelay",
+  
+    
+}
+

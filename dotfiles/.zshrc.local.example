@@ -1,0 +1,2 @@
+# Copy to ~/.zshrc.local and fill in. Never commit this file.
+export DENDUP_SERVER_IP="x.x.x.x"

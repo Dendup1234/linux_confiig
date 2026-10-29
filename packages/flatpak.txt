@@ -1,0 +1,5 @@
+app.zen_browser.zen
+com.getpostman.Postman
+com.spotify.Client
+net.lutris.Lutris
+net.shadps4.shadPS4

@@ -1,0 +1,19 @@
+# AUR (install with yay, which Omarchy ships). yay -S --needed - < <(grep -v '^#' aur.txt)
+# Names are best-known AUR package names; if one fails, `yay -Ss <app>` and pick the -bin variant.
+brave-bin
+google-chrome
+visual-studio-code-bin
+insomnia-bin
+mongodb-compass-bin
+beekeeper-studio-bin
+postman-bin
+figma-linux-bin
+todoist-appimage
+zoom
+webcatalog-bin
+claude-desktop-bin
+zen-browser-bin
+pokemon-colorscripts-git
+cbonsai
+ohcount
+google-cloud-cli
