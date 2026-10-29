@@ -89,3 +89,7 @@ environment on Omarchy **without touching Omarchy's Hyprland setup**.
   `~/Downloads/google-cloud-sdk`; both were removed (gcloud now comes from AUR `google-cloud-cli`).
 - The old Neovim was a manual install in `/opt/nvim-linux-x86_64`; now it's the pacman `neovim`.
 - Excluded on purpose (Omarchy has its own): hypr (except keybinds), waybar, rofi, swaync, wlogout, quickshell, ags.
+
+## Games
+Games and saves are NOT in this repo — they're on the user's external drive. After the steps above,
+run the `/restore-games` command (`.claude/commands/restore-games.md`) when the drive is plugged in.
